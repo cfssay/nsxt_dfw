@@ -1,0 +1,12 @@
+variable "vcenter_server"	{}
+variable "vcenter_username"	{}
+variable "vcenter_password"	{}
+variable "datacenter"		{}
+variable "avi_server"		{}
+variable "avi_username"		{}
+variable "avi_password"		{}
+variable "avi_version"		{}
+variable "cloud_name"		{}
+variable "vcenter_license_tier"	{}
+variable "vcenter_license_type"	{}
+variable "vcenter_configuration" {}
